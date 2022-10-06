@@ -11,12 +11,12 @@ A python script for automatically downloading the latest video from a YouTube ch
 ```bash
 pip3 install yt_dlp dotenv
 
-chmox +x yt_dl-sync.py
+chmox +x yt-archive.py
 
 # make sure .env file is in the root of the directory
 
 # run
-./archive.py
+./yt-archive.py
 ```
 
 Adding to cron job is available as a Ansible playbook in the [pms](https://github.com/mcreekmore/pms) repo
