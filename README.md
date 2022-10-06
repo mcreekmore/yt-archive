@@ -1,4 +1,4 @@
-# yt-dl-sync
+# yt-archive
 
 ## Install
 
