@@ -1,5 +1,7 @@
 # yt-archive
 
+A script for automatically downloading the latest video from a youtube channel
+
 ## Install
 
 ```bash
